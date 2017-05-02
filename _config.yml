@@ -6,6 +6,8 @@ markdown: kramdown
 highlighter: pygments
 logo: false
 paginate: 10
+permalink: /:categories/:title
+post_dirs: true
 baseurl: /
 domain_name: 'https://m45yang.github.io'
 # google_analytics: 'UA-XXXXXXXX-X'
